@@ -54,7 +54,8 @@ return 0;
 ```
 ## OUTPUT:
 
-![Screenshot 2024-10-21 085038](https://github.com/user-attachments/assets/146c7da0-9b32-49bd-b6ec-4218a7343dc4)
+![Screenshot 2024-10-21 083738](https://github.com/user-attachments/assets/131a8cbf-dd5e-4e57-b802-4991376692c9)
+
 
 
 # RESULT:
