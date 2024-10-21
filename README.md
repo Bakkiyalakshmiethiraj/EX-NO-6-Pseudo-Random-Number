@@ -54,7 +54,7 @@ return 0;
 ```
 ## OUTPUT:
 
-![Uploading Screenshot 2024-10-21 083738.png…]()
+![Screenshot 2024-10-21 085038](https://github.com/user-attachments/assets/146c7da0-9b32-49bd-b6ec-4218a7343dc4)
 
 
 # RESULT:
